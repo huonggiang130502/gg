@@ -11,13 +11,13 @@ body {
     width: 100%;
     min-height: 100vh;
     display: flex;
-    background: url("https://i.pinimg.com/originals/09/ed/f5/09edf51d237c39952a1b959e884e6dbb.gif");
+    background: url("https://i.pinimg.com/236x/8c/91/d8/8c91d8884b65b691fec204d7febbdb96.jpg");
     background-size: cover;
 }
 .profile-card{
     width: 500px;
     height: 500px;
-    background: url("https://i.pinimg.com/564x/7b/2a/eb/7b2aeb0a92d599322541b39ec6e087a0.jpg");
+    background: url("https://i.pinimg.com/236x/c4/a6/61/c4a661af23b9969d54cfc3b191f5a5c7.jpg");
     background-size: contain;
     background-size: 100% 100%;
     object-fit: cover;
