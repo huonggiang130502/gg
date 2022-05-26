@@ -12,6 +12,9 @@ body {
     display: flex;
     background: url("https://i.pinimg.com/originals/87/05/f8/8705f8b2b409649f2c041ba90c22ac2b.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 .profile-card{
     width: 500px;
